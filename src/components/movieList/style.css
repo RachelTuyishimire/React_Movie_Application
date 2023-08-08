@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1%;
+}
+.image-container{
+    width: 90%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 5%;
+}
+img{
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+body{
+    background: black;
+}
+

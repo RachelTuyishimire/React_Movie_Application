@@ -1,0 +1,33 @@
+.searchbox{
+    margin-left: 20%;
+    margin-top: -3%;
+}
+
+.searchbox > li{
+    color: white;
+    margin-left: 25%;
+    padding: auto;
+    display: flex;
+    display: inline-block;
+    margin-left: 20%;
+}
+.searchbox > button{
+    margin-left: 5%;
+    background: yellow;
+}
+.searchbox > input{
+    width: 40%;
+    height: 5vh;
+    margin-left: -5%;
+    border-radius: 10px;
+    border: none;
+}
+.logo{
+    color: white;
+    font-size: 40px;
+    margin-left: 6%;
+
+}
+.os{
+    color: yellow;
+}
